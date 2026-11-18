@@ -1,0 +1,3 @@
+Zeitwerk autoload root for app/ (routes, models, services, policies,
+serializers, views, jobs). Intentionally empty in Phase 0.5: no models,
+routes, views, or table migrations yet.

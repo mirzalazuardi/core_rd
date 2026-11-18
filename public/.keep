@@ -1,0 +1,1 @@
+Static assets root (public/assets is built by esbuild/Tailwind at deploy time).
